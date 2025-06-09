@@ -1,0 +1,12 @@
+.BauTitle{
+    margin-top: 15px;
+    font-size: 1.2rem;
+    font-family: "RecklessNeue", Sans-serif;
+}
+#baucloudz-add-to-cart button{
+    margin-top: 15px;
+    width: 100%;
+}
+#baucloudz-add-to-cart button:disabled{
+    opacity: 0.5;
+}
